@@ -2,49 +2,28 @@
 
 I'm John Garcia (Byakkoder), Systems Engineer, Tech Lead and Software Engineer.
 
-In my free time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
+In my spare time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
 
 <details>
   <summary>Some of my games</summary>
-  <p>Next, you can explore some of the games that I have designed and developed as a hobbie. The assets (3D models, music, sounds and 2D images) was created by others and was acquired through the Unity Asset Store.</p>
+  <p>Next, you can explore some of the games that I have designed and developed as a hobbie (the games listed are not open source). The assets (3D models, music, sounds and 2D images) was created by others and was acquired through the Unity Asset Store.</p>
+  <p><strong>Note: </strong>To see and download a game click the game name.</p>
   <table>
     <tr>
-      <td width="200">
-        <article>
-          <header>
-          <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 1">
-          </header>
-          <h3><a href="https://gamejolt.com/games/zombieweapon/374612" target="_blank">Zombie Weapon</a></h3>
-          <p>Isometric 3D shooter game for PC inspired on classic zombie games and movies, made with Unity.</p>
-        </article>
-      </td>
-      <td width="200">
-        <article>
-          <header>
-            <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 2">
-          </header>
-          <h3><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.IronMaze" target="_blank">Iron Maze</a></h3>
-          <p>3D third person (hack and slash) game for Android with mazes that are generated procedurally (roguelike), made with Unity.</p>
-        </article>
-      </td>
-      <td width="200">
-        <article>
-          <header>
-            <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 3">
-          </header>
-          <h3><a href="https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel" target="_blank">Sentinel Space Shooter Arcade</a></h3>
-          <p>3D space shooter game for Android inspired on classic sci-fi games and movies, made with Unity.</p>
-        </article>
-      </td>
-      <td width="200">
-        <article>
-          <header>
-            <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 3">
-          </header>
-          <h3><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.TheHardRider" target="_blank">The Hard Rider</a></h3>
-          <p>A simple 3D racing game for Android inspired on multiple mobile racing games, made with Unity.</p>
-        </article>
-      </td>
+      <td><strong><a href="https://gamejolt.com/games/zombieweapon/374612" target="_blank">Zombie Weapon</a></strong></td>
+      <td><p>Isometric 3D shooter game for PC inspired on classic zombie games and movies, made with Unity.</p></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.IronMaze" target="_blank">Iron Maze</a></strong></td>
+      <td><p>3D third person (hack and slash) game for Android with mazes that are generated procedurally (roguelike), made with Unity.</p></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel" target="_blank">Sentinel Space Shooter Arcade</a></strong></td>
+      <td><p>3D space shooter game for Android inspired on classic sci-fi games and movies, made with Unity.</p></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.TheHardRider" target="_blank">The Hard Rider</a></strong></td>
+      <td><p>A simple 3D racing game for Android inspired on multiple mobile racing games, made with Unity.</p></td>
     </tr>
   </table>
 </details>
