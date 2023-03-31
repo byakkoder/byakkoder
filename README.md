@@ -2,6 +2,8 @@
 
 I'm John Garcia (Byakkoder), Systems Engineer, Tech Lead and Software Engineer.
 
+In my free time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
