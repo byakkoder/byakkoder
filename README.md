@@ -15,7 +15,7 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
           <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 1">
           </header>
           <h3><a href="https://gamejolt.com/games/zombieweapon/374612" target="_blank">Zombie Weapon</a></h3>
-          <p>Isometric 3D shooter game for PC, made with Unity.</p>
+          <p>Isometric 3D shooter game for PC inspired on classic zombie games and movies, made with Unity.</p>
         </article>
       </td>
       <td width="200">
@@ -33,7 +33,7 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
             <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 3">
           </header>
           <h3><a href="https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel" target="_blank">Sentinel Space Shooter Arcade</a></h3>
-          <p>A 3D space shooter game for Android inspired on classic sci-fi games and movies, made with Unity.</p>
+          <p>3D space shooter game for Android inspired on classic sci-fi games and movies, made with Unity.</p>
         </article>
       </td>
       <td width="200">
