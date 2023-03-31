@@ -4,6 +4,10 @@ I'm John Garcia (Byakkoder), Systems Engineer, Tech Lead and Software Engineer.
 
 In my spare time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
 
+## Featured Projects
+
+In this section you can see the projects that are not Open Source. To see my Open Source projects like ChakramFF view my repositories in the Repositories section.
+
 <details>
   <summary>Some of my games</summary>
   <p>Next, you can explore some of the games that I have designed and developed as a hobbie (the games listed are not open source). The assets (3D models, music, sounds and 2D images) was created by others and was acquired through the Unity Asset Store.</p>
@@ -28,9 +32,7 @@ In my spare time I enjoy to learn about the most recent technologies in multiple
   </table>
 </details>
 
----
-
-### :hammer_and_wrench: Languages and Tools:
+## Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
@@ -49,9 +51,7 @@ In my spare time I enjoy to learn about the most recent technologies in multiple
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats:
+## My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byakkoder&theme=prussian)](https://git.io/streak-stats)
 
