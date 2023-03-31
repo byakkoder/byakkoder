@@ -14,7 +14,7 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
           <header>
           <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 1">
           </header>
-          <h3><a href="https://gamejolt.com/games/zombieweapon/374612">Zombie Weapon</a></h3>
+          <h3><a href="https://gamejolt.com/games/zombieweapon/374612" target="_blank">Zombie Weapon</a></h3>
           <p>Isometric 3D shooter game for PC, made with Unity.</p>
         </article>
       </td>
@@ -23,7 +23,7 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
           <header>
             <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 2">
           </header>
-          <h3><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.IronMaze">Iron Maze</a></h3>
+          <h3><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.IronMaze" target="_blank">Iron Maze</a></h3>
           <p>3D third person (hack and slash) game for Android with mazes that are generated procedurally (roguelike), made with Unity.</p>
         </article>
       </td>
@@ -32,7 +32,7 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
           <header>
             <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 3">
           </header>
-          <h3><a href="https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel">Sentinel Space Shooter Arcade</a></h3>
+          <h3><a href="https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel" target="_blank">Sentinel Space Shooter Arcade</a></h3>
           <p>A 3D space shooter game for Android inspired on classic sci-fi games and movies, made with Unity.</p>
         </article>
       </td>
@@ -41,7 +41,7 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
           <header>
             <img width="180" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Image_not_available.png/640px-Image_not_available.png" alt="Imagen de la tarjeta 3">
           </header>
-          <h3><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.TheHardRider">The Hard Rider</a></h3>
+          <h3><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.TheHardRider" target="_blank">The Hard Rider</a></h3>
           <p>A simple 3D racing game for Android inspired on multiple mobile racing games, made with Unity.</p>
         </article>
       </td>
