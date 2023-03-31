@@ -1,12 +1,12 @@
 # About Me
 
-I'm John Garcia (Byakkoder), Systems Engineer, Tech Lead and Software Engineer.
+I'm <strong>John García</strong>, Systems Engineer, Tech Lead and Software Engineer.
 
 In my spare time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
 
 ## Featured Projects
 
-In this section you can see the projects that are not Open Source. To see my Open Source projects like ChakramFF view my repositories in the Repositories section.
+In this section you can see the projects that are not Open Source. To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/ChakramFF) view my repositories in the Repositories section.
 
 <details>
   <summary>Some of my games</summary>
