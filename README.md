@@ -4,6 +4,13 @@ I'm John Garcia (Byakkoder), Systems Engineer, Tech Lead and Software Engineer.
 
 In my free time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
 
+If you want to see some of my games, please go to:
+
+- [Zombie Weapon](https://gamejolt.com/games/zombieweapon/374612)
+- [Iron Maze](https://play.google.com/store/apps/details?id=com.BaihuTechnologies.IronMaze)
+- [Sentinel Space Shooter Arcade](https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel)
+- [The Hard Rider](https://play.google.com/store/apps/details?id=com.BaihuTechnologies.TheHardRider)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
@@ -21,8 +28,8 @@ In my free time I enjoy to learn about the most recent technologies in multiple 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </div>
 
 ---
