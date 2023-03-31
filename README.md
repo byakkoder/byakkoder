@@ -6,7 +6,7 @@ In my spare time I enjoy to learn about the most recent technologies in multiple
 
 ## Featured Projects
 
-In this section you can see the projects that are not Open Source. To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/ChakramFF) view my repositories in the Repositories section.
+In this section you can see the projects that <strong>are not</strong> Open Source. To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/ChakramFF) view my repositories in the Repositories section.
 
 <details>
   <summary>Some of my games</summary>
