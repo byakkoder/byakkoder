@@ -10,7 +10,7 @@ In this section you can see the projects that are not Open Source. To see my Ope
 
 <details>
   <summary>Some of my games</summary>
-  <p>Next, you can explore some of the games that I have designed and developed as a hobbie (the games listed are not open source). The assets (3D models, music, sounds and 2D images) was created by others and was acquired through the Unity Asset Store.</p>
+  <p>Next, you can explore some of the games that I have designed and developed as a hobbie. The assets (3D models, music, sounds and 2D images) was created by others and was acquired through the Unity Asset Store.</p>
   <p><strong>Note: </strong>To see and download a game click the game name.</p>
   <table>
     <tr>
