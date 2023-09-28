@@ -6,31 +6,7 @@ In my spare time I enjoy to learn about the most recent technologies in multiple
 
 ## Featured Projects
 
-In this section you can see the projects that <strong>are not</strong> Open Source. To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/ChakramFF) view my repositories in the Repositories section.
-
-<details>
-  <summary>Some of my games</summary>
-  <p>Next, you can explore some of the games that I have designed and developed as a hobbie. The assets (3D models, music, sounds and 2D images) was created by others and was acquired through the Unity Asset Store.</p>
-  <p><strong>Note: </strong>To see and download a game click the game name.</p>
-  <table>
-    <tr>
-      <td><strong><a href="https://gamejolt.com/games/zombieweapon/374612" target="_blank">Zombie Weapon</a></strong></td>
-      <td><p>Isometric 3D shooter game for PC inspired on classic zombie games and movies, made with Unity.</p></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.IronMaze" target="_blank">Iron Maze</a></strong></td>
-      <td><p>3D third person (hack and slash) game for Android with mazes that are generated procedurally (roguelike), made with Unity.</p></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://play.google.com/store/apps/details?id=com.baihutechnologies.sentinel" target="_blank">Sentinel Space Shooter Arcade</a></strong></td>
-      <td><p>3D space shooter game for Android inspired on classic sci-fi games and movies, made with Unity.</p></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://play.google.com/store/apps/details?id=com.BaihuTechnologies.TheHardRider" target="_blank">The Hard Rider</a></strong></td>
-      <td><p>A simple 3D racing game for Android inspired on multiple mobile racing games, made with Unity.</p></td>
-    </tr>
-  </table>
-</details>
+To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/ChakramFF) view my repositories in the Repositories section.
 
 ## Languages and Tools
 
@@ -47,8 +23,7 @@ In this section you can see the projects that <strong>are not</strong> Open Sour
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>
 </div>
 
 ## My Stats
