@@ -31,6 +31,6 @@ To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/Cha
 
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byakkoder&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=byakkoder&theme=prussian)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byakkoder&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
