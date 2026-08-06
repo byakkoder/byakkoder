@@ -31,6 +31,7 @@ To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/Cha
 
 ## My Stats
 
-[![Byakkoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=byakkoder&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Byakkoder's GitHub stats](https://github-stats-extended.vercel.app/api?username=byakkoder&theme=prussian)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byakkoder&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian&langs_count=20)](https://github.com/stats-organization/github-stats-extended)
+
