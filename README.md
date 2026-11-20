@@ -50,7 +50,7 @@ A home media center ecosystem featuring a Windows desktop server, an Android com
 A Windows desktop time-tracking application focused on productivity, task management, and a streamlined user experience.
 
 ### [ChakramFF](https://github.com/byakkoder/ChakramFF)
-An open-source project from my software development journey. Explore the repository to learn more.
+An open-source Windows desktop application built with C# and .NET, providing a graphical interface for FFmpeg to simplify multimedia processing, MKV file merging, stream management, and metadata editing. 
 
 *Some of my projects are proprietary and are not publicly available as source code.*
 
