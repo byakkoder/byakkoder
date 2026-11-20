@@ -1,37 +1,62 @@
-# About Me
+# Hi there! I'm John García 👋
 
-I'm <strong>John García</strong>, Systems Engineer, Tech Lead and Software Engineer.
+**Software Engineer | Software Architect | Technical Lead | .NET Developer**
 
-In my spare time I enjoy to learn about the most recent technologies in multiple knowledge areas like Cloud, Artificial Intelligence, Mobile Application Development and Video Game Development.
+I'm a Systems Engineer and Software Developer with over **15 years of professional experience**, specializing in .NET technologies, backend development, software architecture, and enterprise applications.
 
-## Featured Projects
+I also have over **5 years of experience as a Technical Lead**, guiding development teams, contributing to architectural decisions, promoting software engineering best practices, and delivering maintainable, scalable solutions.
 
-To see my Open Source projects like [ChakramFF](https://github.com/byakkoder/ChakramFF) view my repositories in the Repositories section.
+I'm passionate about software craftsmanship, modern architecture, and exploring how artificial intelligence can improve software development and create new possibilities.
 
-## Languages and Tools
+## 🚀 What I'm Working On
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet Core" alt="DotNet Core" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>
-</div>
+I'm currently building software products and providing independent development services through **[Byakkoder](https://byakkoder.com)**.
 
-## My Stats
+My work focuses on:
 
-[![Byakkoder's GitHub stats](https://github-stats-extended.vercel.app/api?username=byakkoder&theme=prussian)](https://github.com/stats-organization/github-stats-extended)
+- **Software Architecture:** Clean Architecture, Domain-Driven Design (DDD), CQRS, and modular architectures.
+- **Backend Development:** RESTful APIs, .NET, C#, ASP.NET Core, and Entity Framework Core.
+- **Web & Application Development:** Web applications, Android apps, and Windows desktop solutions.
+- **Artificial Intelligence:** AI integration, local language models, RAG, and intelligent applications.
+- **Software Engineering:** SOLID principles, automated testing, CI/CD, and maintainable code.
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian&langs_count=4)](https://github.com/stats-organization/github-stats-extended)
+## 🛠️ Tech Stack
 
+**Languages & Frameworks**
+
+C# · .NET · ASP.NET Core · Blazor · .NET MAUI · Angular · TypeScript · JavaScript · Python
+
+**Architecture & Engineering**
+
+Clean Architecture · DDD · CQRS · Modular Monoliths · Microservices · REST APIs · SOLID · TDD
+
+**Databases & Cloud**
+
+SQL Server · SQLite · MySQL · Microsoft Azure · Cloudflare · Docker
+
+**Tools & Practices**
+
+Git · GitHub Actions · Entity Framework Core · xUnit · OpenAI APIs · GitHub Copilot · OpenAI Codex
+
+## 💻 Featured Projects
+
+### [IbisQuest](https://byakkoder.com/en/projects/ibisquest/)
+A multi-tenant SaaS platform for Objectives and Key Results (OKR) management, designed to help organizations align strategic goals and track performance.
+
+### [Blue Steel HMC](https://byakkoder.com/en/projects/blue-steel/)
+A home media center ecosystem featuring a Windows desktop server, an Android companion application, media catalog management, and Chromecast integration.
+
+### [Clocksiris](https://byakkoder.com/en/projects/clocksiris/)
+A Windows desktop time-tracking application focused on productivity, task management, and a streamlined user experience.
+
+### [ChakramFF](https://github.com/byakkoder/ChakramFF)
+An open-source project from my software development journey. Explore the repository to learn more.
+
+*Some of my projects are proprietary and are not publicly available as source code.*
+
+## 🌐 Connect With Me
+
+- **Website:** [byakkoder.com](https://byakkoder.com)
+- **GitHub:** [github.com/byakkoder](https://github.com/byakkoder)
+
+I'm always interested in software architecture, engineering practices, emerging technologies, and building useful software products.
